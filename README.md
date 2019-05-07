@@ -1,2 +1,2 @@
-# Palindrome-Protocol
+# Palindrome
 Application Layer Protocol using TCP
